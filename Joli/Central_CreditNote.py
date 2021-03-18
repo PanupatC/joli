@@ -1,0 +1,4 @@
+
+
+columns = 'STORE_NO	CN_NO	CN_DATE	UPC	INVOICE_NO	GP_EFFECTIVE_DATE	QUANTITY	UNIT_RETAIL'.split('\t')
+print(columns)
