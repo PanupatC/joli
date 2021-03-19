@@ -1,4 +1,4 @@
 print('hello')
 
-a = 'b'
-b = 'b'
+a = 'a'
+b = 'c'
