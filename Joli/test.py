@@ -1,4 +1,4 @@
 print('hello')
 
+b = 'bb'
 a = 'aa'
-b = 'c'
